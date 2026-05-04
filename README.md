@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Niclas 👋
 
-<!--
-**NJohansen/NJohansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO at Morningtrain. Board member at Laravel Denmark. Based in Odense, Denmark 🇩🇰
 
-Here are some ideas to get you started:
+I spend most of my time building and helping our dev teams build great products using AI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The rest of the time I'm helping run the Danish Laravel community to grow, co-hosting Claude Code events posting about my everyday CTO learnings.
+
+### Ask me about
+
+Engineering, Use of AI in a tech org, scaling dev teams,
+Laravel, or what it's like running a non-profit tech community in Denmark.
+
+### Find me elsewhere
+
+- LinkedIn: [niclasjohansen](https://www.linkedin.com/in/niclasjohansen/)
+- Morningtrain: [morningtrain.dk](https://morningtrain.dk)
+- Laravel Denmark: [laraveldk.org](https://laraveldk.org/)
