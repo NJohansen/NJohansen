@@ -4,7 +4,7 @@ CTO at Morningtrain. Board member at Laravel Denmark. Based in Odense, Denmark ð
 
 I spend most of my time building and helping our dev teams build great products using AI. 
 
-The rest of the time I'm helping run the Danish Laravel community to grow, co-hosting Claude Code events posting about my everyday CTO learnings.
+The rest of the time I'm helping run the Danish Laravel community to grow, co-hosting Claude Code events and writing about my everyday CTO learnings.
 
 ### Ask me about
 
